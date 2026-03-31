@@ -7,7 +7,7 @@ theme = 'ananke'
   author = 'Rjaac78'
   email = 'Rjaac78@gmail.com'
 
-  [[params.ananke.social.follow]]
+  [params.ananke.social.follow]
     networks = [
       'instagram',
       'facebook',
