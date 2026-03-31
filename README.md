@@ -21,7 +21,7 @@ Este projeto utiliza tecnologia de ponta para garantir performance e simplicidad
 - **Controlo de Versão:** Git & GitHub
 
 ## 🌐 Endereço
-O blog está em processo de publicação via Netlify. A morada oficial será atualizada brevemente.
+O blog está oficialmente online em: **[https://navegadordonexus.netlify.app](https://navegadordonexus.netlify.app)**
 
 ---
 *Navegando entre o real e o simulado.*
